@@ -1,8 +1,16 @@
-# React + Vite
+<h1>
+ Bookoe List
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Documentation</h2>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ol>
+  <li>Create this project</li>
+  <li>Install react</li>
+  <li>Create Home</li>
+  <li>Footer</li>
+  <li>Latest</li>
+  <li>Top Picks</li>
+  <li>Detail Book</li>
+  <li>404 Not Found</li>
+</ol>
